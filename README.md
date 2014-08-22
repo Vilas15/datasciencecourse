@@ -1,0 +1,4 @@
+datasciencecourse
+=================
+
+Study assignment
